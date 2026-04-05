@@ -1,9 +1,10 @@
 # Building a Neural Nework in Computer Vision
 <p float="left"> 
-  <img src="WQUlogo.png" width="30%" /> 
-  <img src="Fixing my Code.png" width="30%" /> 
-  <img src="Fixing my Code 1.png" width="30%" /> 
-</p>
+  <img src="Neural1.png" width="30%" /> 
+  <img src="Neural3.png" width="30%" /> 
+  <img src="Neural2.png" width="30%" /> 
+</p
+  
 ### Getting Ready
 
 Just like in the last lesson, there are a few things we need to do before we can begin. We'll start by importing the packages we'll need for this lesson.
